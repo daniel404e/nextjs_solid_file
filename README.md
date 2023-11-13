@@ -1,6 +1,8 @@
  
 
 ### [🔌 Documentation](https://nextjstemplates.com/docs)
+
+https://nextjstemplates.com/docs
  
 ## Installation
 
